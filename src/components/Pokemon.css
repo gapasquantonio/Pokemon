@@ -1,0 +1,107 @@
+.grass{
+    background-image: url('../assets/types-bg/grass.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.fire{
+    background-image: url('../assets/types-bg/fire.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+.water{
+    background-image: url('../assets/types-bg/water.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+    
+}
+.bug{
+    background-image: url('../assets/types-bg/bug.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.normal{
+    background-image: url('../assets/types-bg/normal.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+    
+}
+
+.poison{
+    background-image: url('../assets/types-bg/poison.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.electric{
+    background-image: url('../assets/types-bg/electric.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+.ground{
+    background-image: url('../assets/types-bg/ground.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.fairy{
+    background-image: url('../assets/types-bg/fairy.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.psychic{
+    background-image: url('../assets/types-bg/psychic.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.fighting{
+    background-image: url('../assets/types-bg/fighting.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.rock{
+    background-image: url('../assets/types-bg/rock.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.ice{
+    background-image: url('../assets/types-bg/ice.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.ghost{
+    background-image: url('../assets/types-bg/ghost.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.dragon{
+    background-image: url('../assets/types-bg/dragon.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.dark{
+    background-image: url('../assets/types-bg/dark.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.flying{
+    background-image: url('../assets/types-bg/flying.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;      
+    }
+ 
+        
+.steel{
+    background-image: url('../assets/types-bg/steel.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+
+#water{
+    background-image: url('../assets/types-bg/water.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
